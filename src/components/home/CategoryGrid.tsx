@@ -7,28 +7,28 @@ const categories = [
     description: "Jackets, caps & riding essentials",
     icon: Bike,
     query: "cycling",
-    gradient: "from-orange-600/20 to-red-600/20",
+    gradient: "from-primary/20 to-accent/20",
   },
   {
     title: "Fitness Equipment",
     description: "Resistance bands, mats & tools",
     icon: Dumbbell,
     query: "fitness",
-    gradient: "from-blue-600/20 to-purple-600/20",
+    gradient: "from-accent/20 to-primary/20",
   },
   {
     title: "Activewear",
     description: "Compression wear, shirts & pants",
     icon: Shirt,
     query: "activewear",
-    gradient: "from-green-600/20 to-teal-600/20",
+    gradient: "from-primary/15 to-accent/15",
   },
   {
     title: "Accessories",
     description: "Straps, grips & more",
     icon: Watch,
     query: "accessories",
-    gradient: "from-pink-600/20 to-rose-600/20",
+    gradient: "from-accent/15 to-primary/15",
   },
 ];
 
